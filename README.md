@@ -1,4 +1,4 @@
-# Proyecto en Java y Python
+# Proyecto en Python
 
 ## ¿Cuál es el objetivo del proyecto?
 
